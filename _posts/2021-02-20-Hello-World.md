@@ -4,7 +4,7 @@ categories: [Road to Data]
 comments: true
 ---
 
-This is my hello world post for my blog where I'm going to briefly tell you, how I began gaining interest in Data Science and what I'm doing to learn which could be useful for you too.
+This is my hello world post for my blog where I'm going to briefly tell you, how I began gaining interest in Data Science and what I'm doing to learn.
 
 So I studied applied chemistry in my bachelors and then for my masters, I applied and got admission to material sciecne in Germany which I started couple years back. I've kinda always wanted to do something in software development and I knew it's going to be a very useful skill for doing all sorts of things. For me, it was something that I could gain magical powers with to do cool stuff and build tools that make tasks much easier and help people in one way or another.  
 
@@ -12,7 +12,7 @@ By this point, I had tried learning python but at some point it really became di
 
 My coding skills also led me to choose a realted topic in my master thesis where I modified a model based in Fortran for a different material where I got an offer to persue a PhD but I refused because I was detemined to learn and work on the topics and issues I am passionate about and learning programming and data science was going to give me that magical powers I was dreaming about. 
 
-So I recently started learning on my own which is a bit confusing at first because I had decide for myself what to learn first and how to learn it which needed some research like looking at university and online data science program curriculum and there other decisions that I decide to make as I go though my learning. Luckily these days, there are tons of free online material to learn all the skills for becoming a data scientis or machine learning engineer and lots of people who already did what I'm going to do and wrote about their experiences.
+So I recently started learning on my own which is a bit confusing at first because I had decide for myself what to learn first and how to learn it which needed some research like looking at university and online data science program curriculum and there are other decisions that I'll make as I go through my learning. Luckily these days, there are tons of free online material to learn all the skills for becoming a data scientis or machine learning engineer and lots of people who already did what I'm going to do and wrote about their experiences.
 
 I'm going to write another post for the material I'm using for my learning which I'll update as I go.
 Also if you're also interested, check this [video][youtube_video] from one of my favorite youtubers where he explains generally how to become a data scientist.
