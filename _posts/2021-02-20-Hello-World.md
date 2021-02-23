@@ -4,7 +4,7 @@ categories: [Road to Data]
 comments: true
 ---
 
-In this my blog where I'm going to briefly tell you, how I began gaining interest in Data Science and what I'm doing to learn.
+In my this blog post, I'm going to briefly tell you, how I began gaining interest in Data Science and what I'm doing to learn.
 
 Back then as a 19 year old I decided to study applied chemistry in my bachelors and then for my masters, I applied and got admission to material sciecne in Germany which I started couple years back. It has always been appealing for me to do something in software development and I knew it's going to be a very useful skill for doing all sorts of things. For me, it was something that I could gain magical powers with to do cool stuff and build tools that make tasks much easier and help people in one way or another but never thought of giving up chemistry all together to persue IT careers.  
 
